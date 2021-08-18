@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POS.BLL/1.0.0": {
+        "dependencies": {
+          "POS.BOL": "1.0.0",
+          "POS.DAL": "1.0.0"
+        },
+        "runtime": {
+          "POS.BLL.dll": {}
+        }
+      },
+      "POS.BOL/1.0.0": {
+        "runtime": {
+          "POS.BOL.dll": {}
+        }
+      },
+      "POS.DAL/1.0.0": {
+        "dependencies": {
+          "POS.BOL": "1.0.0"
+        },
+        "runtime": {
+          "POS.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POS.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POS.BOL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POS.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

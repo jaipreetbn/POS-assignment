@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BLL\\POS.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BLL\\POS.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BLL\\POS.BLL.csproj",
+        "projectName": "POS.BLL",
+        "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BLL\\POS.BLL.csproj",
+        "packagesPath": "C:\\Users\\jaipr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jaipr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj": {
+                "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj"
+              },
+              "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\POS.DAL.csproj": {
+                "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\POS.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj",
+        "projectName": "POS.BOL",
+        "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj",
+        "packagesPath": "C:\\Users\\jaipr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jaipr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\POS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\POS.DAL.csproj",
+        "projectName": "POS.DAL",
+        "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\POS.DAL.csproj",
+        "packagesPath": "C:\\Users\\jaipr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jaipr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj": {
+                "projectPath": "C:\\Users\\jaipr\\OneDrive\\Desktop\\pos-assignment-main\\POS.BOL\\POS.BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

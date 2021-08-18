@@ -1,0 +1,12 @@
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\bin\Debug\netcoreapp3.1\POS.DAL.deps.json
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\bin\Debug\netcoreapp3.1\POS.DAL.dll
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\bin\Debug\netcoreapp3.1\POS.DAL.pdb
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\bin\Debug\netcoreapp3.1\POS.BOL.dll
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\bin\Debug\netcoreapp3.1\POS.BOL.pdb
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.csprojAssemblyReference.cache
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.AssemblyInfoInputs.cache
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.AssemblyInfo.cs
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.csproj.CopyComplete
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.dll
+C:\Users\jaipr\OneDrive\Desktop\pos-assignment-main\POS.DAL\obj\Debug\netcoreapp3.1\POS.DAL.pdb
